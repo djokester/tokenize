@@ -42,5 +42,5 @@ def tokenize(string, removePunctuations = False):
 
 if __name__ == '__main__':
     input_str = 'Hey there! Wassup? \n Nice Meeting You.\t Have a nice day.'
-    print(tokenizer(input_str))
-    print(tokenizer(input_str,True))
+    print(tokenize(input_str))
+    print(tokenize(input_str,True))
