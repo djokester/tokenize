@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='Tokenizer',
+setup(name='tokenizer',
       version='0.1',
       description='Simple Tokenizer for your Strings',
       url='http://github.com/djokester/tokenizer',
